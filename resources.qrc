@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/landuse_continuity" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
